@@ -1,4 +1,2 @@
-# sumaysethi.github.io
-My name is Sumay Sethi an I am a first year student at Lehigh University in Bethlehem, Pennsylvania. I am currently undecided, but I hope to transfer into the business school at some point in time.
-![GitHub Logo](file:///Users/sumaysethi/Desktop/Edits/Odell%20Beckham%20Jr./images/logo.png)
-Format: ![Alt Text](file:///Users/sumaysethi/Desktop/Edits/Odell%20Beckham%20Jr.)
+# Sumay Sethi
+My name is Sumay Sethi an I am a first year student at Lehigh University in Bethlehem, Pennsylvania. I am currently undecided, but I hope to transfer into the business school at some point in time. I was born in Morristown, New Jersey, and grew up in Basking Ridge, New Jersey. I am of Indian origin, and even lived there for three years. I enjoy playing soccer, and am fluent in three languages.
