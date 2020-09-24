@@ -6,4 +6,4 @@
 [Here is my Instagram](https://www.instagram.com/sumaysethi/)
 
 
-![me](file:///Users/sumaysethi/Desktop/Student%20Enrollment%20at%20Lehigh.png)
+![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Student%20Enrollment%20at%20Lehigh.png?raw=true)
