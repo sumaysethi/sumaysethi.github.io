@@ -5,5 +5,6 @@
 
 [Here is my Instagram](https://www.instagram.com/sumaysethi/)
 
-
+# Lehigh Infographic
+  This is an infographic I have created using Canva in order to illustrate the demogrpahics of Lehigh students, and where they come from.
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Student%20Enrollment%20at%20Lehigh.png?raw=true)
