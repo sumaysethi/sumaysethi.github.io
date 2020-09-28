@@ -8,3 +8,7 @@
 # Lehigh Infographic
   This is an infographic I have created using Canva in order to illustrate the demogrpahics of Lehigh students, and where they come from.
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Student%20Enrollment%20at%20Lehigh.png?raw=true)
+
+# NCAA Infographic
+    This infographic shows the percentage of college athletes who are able to play at a professional level in the four major sports. I think that this is something that interests me because I love sports, and I am interested in sports journalism. I think that this infographic illustrates the harsh reality of college sports, and helps one comprehend that a majority of college athletes do not go pro.
+![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Student%20Enrollment%20at%20Lehigh.png?raw=true))
