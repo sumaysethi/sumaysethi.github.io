@@ -12,3 +12,6 @@
 # NCAA Infographic
   This infographic shows the percentage of college athletes who are able to play at a professional level in the four major sports. I think that this is something that interests me because I love sports, and I am interested in sports journalism. I think that this infographic illustrates the harsh reality of college sports, and helps one comprehend that a majority of college athletes do not go pro.
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Sports.png?raw=true)
+
+# New York Yankees Timeline
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11SwWfgsCbqs2UtUPoeFHB4QspdgGTypUjneO1lSaG0g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
