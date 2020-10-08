@@ -16,3 +16,7 @@
 # New York Yankees Timeline
   Baseball is considered to be America's pastime, and the Yankees are the sport's most important team. Along with their numerous championships, over time they have also accumululated a rich history, which one is able to visualize using the timeline below.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=11SwWfgsCbqs2UtUPoeFHB4QspdgGTypUjneO1lSaG0g&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+# Lehigh Bar Chart
+In order to help visualize data, we often use models such as bar graphs to help us understand parts in terms of a whole.
+![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Lehigh_2019_Enrollment_Data_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
