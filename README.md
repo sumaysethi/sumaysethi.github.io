@@ -20,3 +20,7 @@
 # Lehigh Bar Chart
 In order to help visualize data, we often use models such as bar graphs to help us understand parts in terms of a whole.
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Lehigh_2019_Enrollment_Data_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+# NBA Bar Chart
+In honor of the NBA Finals going on right now, I decided to create a visual model to help show the distribution of championships around the league. In analyzing this data one can see that the league has historically been dominated by two teams: the Lakers, and the Celtics. While many teams like the Spurs, Warriors, and Bulls have had dysnasties themselves, they have not been able to have the consistent production of the Lakers and Celtics.
+![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/NBA_Championship_Winning_Teams_Percent_of_Championships_Won_chartbuilder.png?raw=true)
