@@ -10,7 +10,7 @@
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Student%20Enrollment%20at%20Lehigh.png?raw=true)
 
 # NCAA Infographic
-  This infographic shows the percentage of college athletes who are able to play at a professional level in the four major sports. This is a topic of interest due to the fact that Lehigh is home to several Division 1 athletic programs, and as sports contribute heavily to the daily lives of many. I think that this infographic illustrates the harsh reality of college sports, and helps one comprehend that a majority of college athletes do not go pro. These particular sports were included in my infographic
+  This infographic shows the percentage of college athletes who are able to play at a professional level in the four major sports. This is a topic of interest due to the fact that Lehigh is home to several Division 1 athletic programs, and as sports contribute heavily to the daily lives of many. I think that this infographic illustrates the harsh reality of college sports, and helps one comprehend that a majority of college athletes do not go pro. These particular sports were included in my infographic because they are the most common college sports throughout the U.S.
 ![me](https://github.com/sumaysethi/sumaysethi.github.io/blob/master/Sports.png?raw=true)
 
 # New York Yankees Timeline
